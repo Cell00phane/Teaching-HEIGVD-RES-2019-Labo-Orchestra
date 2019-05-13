@@ -1,0 +1,27 @@
+{
+  "name": "auditor",
+  "version": "1.0.0",
+  "description": "auditor node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cell00phane/Teaching-HEIGVD-RES-2019-Labo-Orchestra.git"
+  },
+  "author": "Stephane Selim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cell00phane/Teaching-HEIGVD-RES-2019-Labo-Orchestra/issues"
+  },
+  "homepage": "https://github.com/Cell00phane/Teaching-HEIGVD-RES-2019-Labo-Orchestra#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
